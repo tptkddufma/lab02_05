@@ -2,6 +2,8 @@
 #include <vector>
 #include <algorithm>
 
+//2017-11500 ¿ì¼¼ÇÏ
+
 using namespace std;
 
 void main()
